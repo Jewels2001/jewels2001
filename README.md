@@ -1,5 +1,10 @@
 ### Hi there 👋 It's me, Jewels2001 💠
 
+---
+
+### 🌟 My stats!
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jewels2001&theme=dark&background=005A99)](https://git.io/streak-stats)
+
 <!--
 **Jewels2001/jewels2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
